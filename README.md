@@ -37,14 +37,14 @@ The **GFG 160 Days DSA Challenge** is a curated roadmap to help individuals mast
 ```
 GFG160Days/
 |-- Day01/
-|   |-- Problem1.cpp
-|   |-- Problem2.java
-|   |-- Notes.md
+|   
+|   |-- Solution.java
+|   
 |
 |-- Day02/
-|   |-- Problem1.py
-|   |-- Problem2.cpp
-|   |-- Notes.md
+|   
+|   |-- Solution.java
+|   
 |
 |-- ...
 |-- README.md
@@ -82,9 +82,9 @@ If you're also working on the GFG 160 Days Challenge and want to share insights 
 ## Contact
 
 Feel free to reach out if you have any questions, suggestions, or want to discuss DSA concepts:
-- **Email**: your_email@example.com
-- **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- **Twitter**: [Your Twitter](https://twitter.com/yourhandle)
+- **Email**: mohd.692003@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/mohammad-danish-420a29151/
+
 
 ---
 
